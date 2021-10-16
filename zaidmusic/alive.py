@@ -1,4 +1,4 @@
-#zaid Project 
+#attack Project 
 #Ur Motherfucker If U Kang And Don't Give Creadits 🥴
 
 from os import path
@@ -52,15 +52,15 @@ async def alive(client: Client, message: Message):
 
 ➮ **ꜱᴇʀᴠɪᴄᴇ ᴜᴘᴛɪᴍᴇ : `{uptime}`**
 
-**𝚃𝚑𝚊𝚗𝚔𝚜 𝙵𝚘𝚛 𝚄𝚜𝚒𝚗𝚐 𝚣𝚊𝚒𝚍 𝙱𝚘𝚝𝚜 ♥️**""",
+**𝚃𝚑𝚊𝚗𝚔𝚜 𝙵𝚘𝚛 𝚄𝚜𝚒𝚗𝚐 attack 𝙱𝚘𝚝𝚜 ♥️**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💫 ɢʀᴏᴜᴘ", url=f"https://t.me/SUPERIOR_SUPPORT"
+                        "💫 ɢʀᴏᴜᴘ", url=f"https://t.me/yaamiin"
                     ),
                     InlineKeyboardButton(
-                        "ᴄʜᴀɴɴᴇʟ ☑️", url=f"https://t.me/SUPERIOR_BOTS"
+                        "ᴄʜᴀɴɴᴇʟ ☑️", url=f"https://t.me/yaamiin"
                     )
                 ]
             ]
